@@ -3,13 +3,12 @@
     text-align: right;
     width: 33%;
     border: none;
-    margin-right: 190px;
 }
 .container {
     background-color: #ffffff;
     height: 73px;
-    border-bottom: #cccccc solid 2px;
     margin: auto;
+    width: 960px;
 }
 .header {
     float: left;
@@ -18,12 +17,11 @@
     text-align: center;
     width: 33%;
     font-size: 17px;
-    border: #cccccc solid 2px;
-    margin-left: 190px;
 }
 header {
     width: 100%;
     background: #ffffff;
+    border-bottom:  #cccccc solid 2px;
 }
 #me {
     float: left;
